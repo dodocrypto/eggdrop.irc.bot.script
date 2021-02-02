@@ -1,0 +1,1 @@
+# eggdrop.irc.bot.script
