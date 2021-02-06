@@ -43,9 +43,6 @@ cd ~/eggdrop
 ./eggdrop -m ./0dev.cfg
 
 
-### Bug / Help
-[ 0day (xc) Our ] v 1.0 Production Released :
-BUG / HELP 
 
-# Contact : https://discord.gg/s4PthJDcfy
-# website : https://0dev.us.to
+
+
