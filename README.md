@@ -43,6 +43,8 @@ cd ~/eggdrop
 ./eggdrop -m ./0dev.cfg
 
 
+[ 0day (xc) Our ] 
 
+Contact : chat.freenode.net , channel #0xday
 
 
